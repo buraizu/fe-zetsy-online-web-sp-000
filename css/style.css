@@ -71,3 +71,9 @@ h2 {
 .small {
   font-size: 0.8em;
 }
+
+		/*		Pseudo-Class styles			*/
+
+a:hover {
+	background-color: #360;
+}
