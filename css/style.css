@@ -1,6 +1,7 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
 
 h1 {
 	font-family: 'Baskerville', serif;
@@ -11,7 +12,7 @@ h1 {
 body {
 	background: #F3EBE9;
 	font-size: 100%;
-	font-family: 'Times New Roman', serif; 
+	font-family: 'Times New Roman', serif;
 }
 
 .wrapper {
