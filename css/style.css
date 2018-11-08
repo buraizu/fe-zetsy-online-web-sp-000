@@ -34,19 +34,29 @@ header a {
   text-decoration: none;
 }
 
-#press {
-  margin-bottom: 20px;
-}
-
-footer {
-  text-align: right;
-  background: #fff;
+h2 {
+  color: rgb(111,127,122);
+  font-size: 2em;
 }
 
 p {
   color: #555;
   font-size: 1em;
   margin: 0 0 20px 0;
+}
+
+
+footer {
+  text-align: right;
+  background: #fff;
+}
+
+.small {
+  font-size: 0.8em;
+}
+
+#press {
+  margin-bottom: 20px;
 }
 
 #featured img {
@@ -58,18 +68,9 @@ p {
   text-decoration: none;
 }
 
-h2 {
-  color: rgb(111,127,122);
-  font-size: 2em;
-}
-
 #press img {
   border: 5px #ccc solid;
   padding: 1px;
-}
-
-.small {
-  font-size: 0.8em;
 }
 
 		/*		Pseudo-Class styles			*/
