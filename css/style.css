@@ -75,5 +75,5 @@ h2 {
 		/*		Pseudo-Class styles			*/
 
 a:hover {
-	background-color: #360;
+	border: 2px solid blue;
 }
