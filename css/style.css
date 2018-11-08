@@ -74,6 +74,6 @@ h2 {
 
 		/*		Pseudo-Class styles			*/
 
-a:hover {
+a:visited {
 	background-color: green;
 }
